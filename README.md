@@ -1,8 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg" />
-  <img alt="Elcan Səfərli — Computer Science student, Baku" src="assets/hero-light.svg" />
-</picture>
+<img alt="Elcan Səfərli — Computer Science student, Baku" src="assets/hero-ink.svg" width="100%" />
 
 I study Computer Science at the **Azerbaijan Technical University** in Baku. I like problems where mathematics has to become software that actually runs, and I keep working on them until they do.
 
@@ -26,13 +22,6 @@ First year, working through the fundamentals properly: mathematical analysis, li
 
 **Control Center** *(private)* — an ops console that aggregates health and usage from independent apps, with service-to-service bearer auth and AES-256-GCM encrypted tokens. `TypeScript · Next.js · Prisma`
 
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elcann7/elcann7/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/elcann7/elcann7/output/github-snake.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/elcann7/elcann7/output/github-snake.svg" />
-</picture>
 
 ## Contact
 
