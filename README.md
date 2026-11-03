@@ -1,28 +1,17 @@
-<img alt="Elcan Səfərli — Computer Science student, Baku" src="assets/hero-ink.svg" width="100%" />
+<img alt="Elcan Səfərli, Computer Science student from Baku" src="assets/hero-color.svg" width="100%" />
 
-I study Computer Science at the **Azerbaijan Technical University** in Baku. I like problems where mathematics has to become software that actually runs, and I keep working on them until they do.
+<img alt="About: Computer Science student at the Azerbaijan Technical University in Baku, turning mathematics into working software." src="assets/about.svg" width="100%" />
 
-## Now
+<img alt="Now: first year, working through mathematical analysis, linear algebra and programming, building small tools to understand each idea." src="assets/now.svg" width="100%" />
 
-First year, working through the fundamentals properly: mathematical analysis, linear algebra, programming. I build small tools to understand each idea instead of just memorizing it. New projects land here as they are finished.
+<img alt="Stack: Python, TypeScript, JavaScript, C; Next.js, React, Tailwind CSS; PostgreSQL, Supabase, Prisma; Git, GitHub, Vercel, Claude Code; mathematical analysis, discrete mathematics, data structures." src="assets/stack.svg" width="100%" />
 
-## Stack
+<p>
+<a href="https://github.com/elcann7/epsilon-limit-simulyasiya"><img alt="Epsilon-Delta Limit Simulator: Cauchy's definition of a limit, drawn live. JavaScript, Canvas." src="assets/work-epsilon.svg" width="49%" /></a>
+<img alt="Control Center (private): an ops console aggregating health and usage of independent apps. TypeScript, Next.js, Prisma." src="assets/work-control.svg" width="49%" />
+</p>
 
-| Area | Tools |
-|---|---|
-| **Languages** | Python · TypeScript · JavaScript · C |
-| **Web** | Next.js · React · Tailwind CSS |
-| **Data** | PostgreSQL · Supabase · Prisma |
-| **Tools** | Git · GitHub CLI · Vercel · Claude Code |
-| **Foundations** | Mathematical analysis · discrete mathematics · data structures |
-
-## Selected work
-
-**[Epsilon–Delta Limit Simulator](https://github.com/elcann7/epsilon-limit-simulyasiya)** — Cauchy's definition of a limit, drawn live: epsilon corridors and delta neighborhoods on a canvas. `JavaScript · Canvas`
-
-**Control Center** *(private)* — an ops console that aggregates health and usage from independent apps, with service-to-service bearer auth and AES-256-GCM encrypted tokens. `TypeScript · Next.js · Prisma`
-
-
-## Contact
-
-[elcanseferli666@gmail.com](mailto:elcanseferli666@gmail.com) · [github.com/elcann7](https://github.com/elcann7)
+<p>
+<a href="mailto:elcanseferli666@gmail.com"><img alt="Email: elcanseferli666@gmail.com" src="assets/contact-email.svg" width="49%" /></a>
+<a href="https://github.com/elcann7"><img alt="GitHub: github.com/elcann7" src="assets/contact-github.svg" width="49%" /></a>
+</p>
