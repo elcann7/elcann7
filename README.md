@@ -12,7 +12,7 @@ First year, working through the fundamentals properly: mathematical analysis, li
 
 ## Stack
 
-| | |
+| Area | Tools |
 |---|---|
 | **Languages** | Python · TypeScript · JavaScript · C |
 | **Web** | Next.js · React · Tailwind CSS |
