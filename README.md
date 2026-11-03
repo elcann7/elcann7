@@ -9,6 +9,14 @@ const elcan = {
 ```
 
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/title-project-dark.svg" />
+  <img alt="Project" src="assets/title-project-light.svg" width="200" />
+</picture>
+
+**[jev-issue-triage](https://github.com/elcann7/jev-issue-triage)**: a GitHub Action that labels and prioritizes new issues with TypeSafe's Jev model. Jev judges, plain tested code decides. Includes a local dashboard with a no-key demo and a live evaluation script.
+`JavaScript` `GitHub Actions` `zero dependencies`
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/title-stack-dark.svg" />
   <img alt="Stack" src="assets/title-stack-light.svg" width="200" />
 </picture>
