@@ -1,7 +1,24 @@
 <img alt="Elcan Səfərli, Computer Science student from Baku" src="assets/hero-color.svg" width="100%" />
 
-Computer Science student at the Azerbaijan Technical University, Baku. I like turning mathematics into software that actually runs.
+```ts
+const elcan = {
+  studying: "Computer Science at the Azerbaijan Technical University, Baku",
+  focus: ["mathematical analysis", "linear algebra", "programming"],
+  approach: "build small tools to understand each idea instead of memorizing it",
+};
+```
 
-**Stack:** Python · TypeScript · JavaScript · C · Next.js · React · Tailwind CSS · PostgreSQL · Supabase · Prisma · Git
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/title-stack-dark.svg" />
+  <img alt="Stack" src="assets/title-stack-light.svg" width="200" />
+</picture>
 
-**Contact:** [elcanseferli666@gmail.com](mailto:elcanseferli666@gmail.com)
+<img alt="Stack: Python, TypeScript, JavaScript, C, Next.js, React, Tailwind CSS, PostgreSQL, Supabase, Prisma, Git, GitHub, Vercel, Claude Code" src="assets/stack.svg" width="100%" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/title-contact-dark.svg" />
+  <img alt="Contact" src="assets/title-contact-light.svg" width="200" />
+</picture>
+
+[![Email](https://img.shields.io/badge/Email-elcanseferli666%40gmail.com-1E8E92?style=flat-square&logo=gmail&logoColor=white)](mailto:elcanseferli666@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-elcann7-0B1F2A?style=flat-square&logo=github&logoColor=white)](https://github.com/elcann7)
