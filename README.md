@@ -13,7 +13,7 @@ const elcan = {
   <img alt="Stack" src="assets/title-stack-light.svg" width="200" />
 </picture>
 
-<img alt="Stack: Python, TypeScript, JavaScript, C, Next.js, React, Tailwind CSS, PostgreSQL, Supabase, Prisma, Git, GitHub, Vercel, Claude Code" src="assets/stack.svg" width="100%" />
+<img alt="Stack: Python, TypeScript, JavaScript, Next.js, React, Tailwind CSS, PostgreSQL, Supabase, Prisma, Git, GitHub, Vercel, Claude Code" src="assets/stack.svg" width="100%" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/title-opensource-dark.svg" />
