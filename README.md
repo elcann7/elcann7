@@ -38,9 +38,9 @@ const elcan = {
       <b>Public · open source</b>
     </td>
     <td width="33%" valign="top">
-      <h4><a href="https://github.com/elcann7/adiak-bilet">adiak-bilet</a></h4>
+      <h4><a href="https://github.com/elcann7/bilet-cek">bilet-cek</a></h4>
       <code>JavaScript · Python · Gemini</code>
-      <p>A colloquium simulator: draw a ticket, answer three questions by voice and get graded out of ten by Gemini.</p>
+      <p>A colloquium and exam simulator: pick a subject, draw a ticket, answer by voice or text and get graded out of ten by Gemini. Upload your own question PDF to create a custom exam.</p>
       <b>Public</b>
     </td>
     <td width="33%" valign="top">
